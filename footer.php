@@ -37,7 +37,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Todos os direitos reervados 2014
+                        Copyright &copy; Todos os direitos reservados <?php echo date("Y"); ?>
                     </div>
                 </div>
             </div>
@@ -66,3 +66,5 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/freelancer.js"></script>
+</body>
+</html>
